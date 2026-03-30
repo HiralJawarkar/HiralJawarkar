@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hiral 
+B.Tech Bio-engineering | Year 1 | VIT Bhopal
 
-<!--
-**HiralJawarkar/HiralJawarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Bio-engineering major with a passion for using technology to solve real-world problems in healthcare and medicine. I hope to learn how AI and machine learning can be applied in medical technology.
 
-Here are some ideas to get you started:
+## Skills & Tools
+- **Languages:** Python
+- **Interests:** Artificial Intelligence, Machine Learning, Software Development, MedTech
+  
+## Currently Learning
+- Machine Learning fundamentals
+- AI applications in healthcare & medical technology
+- Building software that creates real-world impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- [LinkedIn] www.linkedin.com/in/hiral-jawarkar
+- hiral.25boe10110@vitbhopal.ac.in
